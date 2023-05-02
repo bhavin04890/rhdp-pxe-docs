@@ -10,3 +10,6 @@ Portworx Enterprise documentation for the Red Hat Demo Platform
    :caption: Portworx Enterprise Labs 
    :maxdepth: 2
    :glob:
+
+   cli-based-labs/index-cli
+   
