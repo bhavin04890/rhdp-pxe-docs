@@ -1,9 +1,4 @@
-Template for the Read the Docs tutorial
+Repository for Portworx Enterprise - Red Hat Demo Platform lab documentation!
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
-
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+This is a readthedocs Repository for Red Hat Demo Platform lab around Portworx Enterprise and it's features. 
