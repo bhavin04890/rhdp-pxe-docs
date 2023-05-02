@@ -29,7 +29,7 @@ Hint:
 
 .. code-block:: shell
     
-    oc version
+    oc get nodes
 
 .. dropdown:: Show Solution
     
