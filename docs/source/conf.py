@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Portworx Enterprise'
+copyright = '2023, Portworx by Pure Storage'
+author = 'Bhavin Shah'
 
 release = '0.1'
 version = '0.1.0'
