@@ -1,4 +1,4 @@
-Welcome to Portworx Enterprise documentation for the Red Hat Demo Platform
+Portworx Enterprise documentation for the Red Hat Demo Platform
 ===================================
 
 .. warning:: The steps assume you are using the Red Hat Demo Platform 
